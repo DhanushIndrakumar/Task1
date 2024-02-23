@@ -5,9 +5,9 @@ public class Question2 {
         System.out.println("Enter a number:");
         int num=sc.nextInt();
         if(num<0){
-            System.out.println(num+" is a negative number");
+            System.out.println(num+"  is a negative number");
         }else if(num>0){
-            System.out.println(num+"is a positive number");
+            System.out.println(num+"  is a positive number");
         }else if(num==0){
             System.out.println("Entered number is Zero");
         }else{
